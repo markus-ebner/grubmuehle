@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 
 // import logo from "../img/logo.svg";
-import logo from "../img/logo3.svg";
+import logo from "../img/logo.svg";
 
 const Footer = class extends React.Component {
   render() {
@@ -40,7 +40,7 @@ const Footer = class extends React.Component {
             </Link>
           </li>
           <li>
-            <Link className="navbar-item" to="/contact">
+            <Link className="navbar-item" to="/impressum">
               Impressum
             </Link>
           </li>

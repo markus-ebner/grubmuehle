@@ -1,5 +1,5 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+import React from "react";
+import PropTypes from "prop-types";
 
 const Pricing = ({ data }) => (
   <div className="columns">
@@ -10,7 +10,7 @@ const Pricing = ({ data }) => (
             {price.plan}
           </h4>
           <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
-            ${price.price}
+            {price.price}€
           </h2>
           <p className="has-text-weight-semibold">{price.description}</p>
           <ul>
@@ -24,7 +24,7 @@ const Pricing = ({ data }) => (
       </div>
     ))}
   </div>
-)
+);
 
 Pricing.propTypes = {
   data: PropTypes.arrayOf(
@@ -35,6 +35,6 @@ Pricing.propTypes = {
       items: PropTypes.array,
     })
   ),
-}
+};
 
-export default Pricing
+export default Pricing;
