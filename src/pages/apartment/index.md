@@ -1,13 +1,15 @@
 ---
-heading: Great coffee with a conscience
+heading: Genügend Freiraum in 120 Quadratmeter
 path: /apartment
 templateKey: apartment-page
 title: Unser Apartment
 image: /img/img_20200607_104656980_hdr.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: "Im Erdgeschoss: Entrée, 1 Schlafzimmer für 2 Personen und
+  Abstellraum. Über eine Stiege erreichen Sie im Obergeschoss eine komplett
+  ausgestattete Küche mit einem Backofen und einer Spülmaschine. 1 Schlafzimmer
+  mit Doppelbett, geräumiges Wohnzimmer mit TV und Schlafsofa (Doppelcouch),
+  Balkon mit Sitzgelegenheit. Dusche und separate Toilette. Sitzgelegenheit im
+  Grünen. Abstellplatz für Fahrräder vorhanden. WLAN inbegriffen. "
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -44,54 +46,44 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Schlafzimmer Erdgeschoss
+  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+    betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
+    Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
+    Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
+    Aufwachen am Morgen.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/Stiege.JPG
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/ZimmerU1.JPG
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    image: /img/ZimmerU2.JPG
+testimonials: []
+full_image: /img/IMG_4513.JPG
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Unsere Preise
+  description: Wir versuchen familien- und urlauberfreundliche Preise für unsere
+    Gäste zu bieten. Zu den angebotenen Preisen kommen noch die Orts- und
+    Nächtigungstaxe (€ 2,10/Person pro Nacht ab 17 J. (vor Ort zu zahlen) und
+    die Endreinigungsgebühr (einmalig 50€) hinzu.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Für Pärchen oder Alleinreisende haben wir natürlich ein
+        verbessertes Angebot.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - Großzügige Raumaufteilung
+      plan: 1-2 Personen
+      price: "75"
+    - description: Auch für eine kleine Familie oder 2 Pärchen ein attraktiven Preis.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Jedes weitere Kind gratis
+      plan: 3-4 Personen
+      price: "90"
+    - description: Jede weitere Person über 16 Jahren kostet 10€/Nacht mehr
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+        - Kinder unter 16 Jahre sind gratis
+      plan: 5-6 Personen
+      price: 100-110
 ---
