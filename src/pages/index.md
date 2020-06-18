@@ -1,55 +1,43 @@
 ---
 templateKey: index-page
 title: Haus Grubmühle
-image: /img/img_20200607_104650380_hdr.jpg
+image: /img/IMG_4496.JPG
 heading: Haus Grubmühle
 subheading: Entspannen am Bauernhof & Bach
 mainpitch:
-  title: Why Kaldi
+  title: Bäuerlicher Genuss
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Sie verbringen Ihren Urlaub gerne auf dem Land und genießen das ländliche
+    Leben? Dann können Sie im Haus Grubmühle die Auszeit auf einem Bauernhof
+    genießen. 
+description: "Sie erwartet am Kleinbauernhof Grubmühle eine ruhiger Lage am
+  Roggbach, umgeben von Wiesen und Wäldern. Die Lage in Mittelkärnten ist ein
+  guter Ausgangspunkt für Ausflugsziele und Aktivitäten an den nahegelegen Seen
+  und Bergen. Direkt neben dem Haus plätschert der Bach ‚Rogg‘ vorbei, wo Sie
+  sich an heißen Tagen abkühlen können. "
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/undraw_nature_m5ll.png
+      text: Unser Apartment ist von viel Natur umgeben. Der Roggbach fließt direkt vor
+        der Haustüre vorbei und die Bäume rundherum bieten Schatten, wenn es mal
+        zu heiß wird.
+    - image: /img/undraw_people_tax5.png
+      text: "Unsere Ferienwohnung bietet für bis zu 6 Personen Platz. Auch Kinder sind
+        sehr herzlich willkommen, da in der Nachbarschaft genügend
+        Spielkameraden vorhanden sind. "
+    - image: /img/undraw_through_the_window_51ew.png
+      text: "Unser Balkon bietet optimalen Blick auf den Roggbach und man kann auch
+        sonst in allen anderen Zimmern das Rauschen des Flusses hören. "
+    - image: /img/undraw_Country_side_k696.png
+      text: Die zentrale Lage von unserem Haus Grubmühle ermöglicht es, dass man die
+        meisten Städte, Seen und Berge schnell erreichen kann.
+  heading: Was wir bieten
+  description: "Lage: direkt beim Kleinbauernhof Grubmühle, in ruhiger Lage am
+    Roggbach, umgeben von Wiesen und Wäldern. Die Lage in Mittelkärnten ist ein
+    guter Ausgangspunkt für Ausflugsziele und Aktivitäten an den nahegelegen
+    Seen und Bergen (Wörthersee Card inklusive). Direkt neben dem Haus
+    plätschert der Bach ‚Rogg‘ vorbei, wo Sie sich an heißen Tagen abkühlen
+    können. "
 main:
   heading: Great coffee with no compromises
   description: >
