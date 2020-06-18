@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Haus Grubmühle",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Das Haus Grubmühle steht zur Vermietung für Urlauber in Kärnten bereit. Entspannung am Bach und am Bauernhof genießen.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
