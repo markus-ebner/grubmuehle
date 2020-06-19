@@ -8,7 +8,7 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <MainHeading title="News vom Hof" url="/img/blog-index.jpg" />
+        <MainHeading title="News vom Hof" url="/img/außen_vorne_hell.jpg" />
         <section className="section">
           <div className="container">
             <div className="content">

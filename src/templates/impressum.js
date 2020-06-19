@@ -5,7 +5,7 @@ import { ImpressumText } from "./impressumText";
 export const ImpressumPageTemplate = () => {
   return (
     <div>
-      <MainHeading title={"Impressum"} url={"/img/blog-index.jpg"} />
+      <MainHeading title={"Impressum"} url={"/img/außen-frontansicht.jpg"} />
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">

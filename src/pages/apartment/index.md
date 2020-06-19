@@ -3,7 +3,7 @@ heading: Genügend Freiraum in 120 Quadratmeter
 path: /apartment
 templateKey: apartment-page
 title: Unser Apartment
-image: /img/img_20200607_104656980_hdr.jpg
+image: /img/außen_hell.JPG
 description: "Im Erdgeschoss: Entrée, 1 Schlafzimmer für 2 Personen und
   Abstellraum. Über eine Stiege erreichen Sie im Obergeschoss eine komplett
   ausgestattete Küche mit einem Backofen und einer Spülmaschine. 1 Schlafzimmer
@@ -44,7 +44,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/ZimmerU2.JPG
-full_image: /img/IMG_4513.JPG
+full_image: /img/fluss_andere_seite_garten_haus.JPG
 pricing:
   heading: Unsere Preise
   description: Wir versuchen familien- und urlauberfreundliche Preise für unsere
