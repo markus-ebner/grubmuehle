@@ -29,7 +29,8 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Schlafzimmer Erdgeschoss
-  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description:
+    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -43,7 +44,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/ZimmerU2.JPG
-testimonials: []
 full_image: /img/IMG_4513.JPG
 pricing:
   heading: Unsere Preise

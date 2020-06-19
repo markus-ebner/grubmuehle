@@ -7,9 +7,8 @@ description: "Im Frühjahr haben wir heuer bereits zwei Kälber in unserer
   geboren. "
 featuredpost: true
 featuredimage: /img/Kuh1.JPG
-tags:
-  - Kuh
 ---
+
 Kleines Kalb
 
 Melken

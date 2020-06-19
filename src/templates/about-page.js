@@ -5,12 +5,20 @@ import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import { MainHeading } from "../components/MainHeading";
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const AboutPageTemplate = ({
+  image,
+  title,
+  content,
+  contentComponent,
+}) => {
   const PageContent = contentComponent || Content;
 
   return (
     <div>
-      <MainHeading title={"Über uns"} url={"/img/blog-index.jpg"} />
+      <MainHeading
+        title={"Über uns"}
+        url={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
+      />
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">
@@ -30,6 +38,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 };
 
 AboutPageTemplate.propTypes = {
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
@@ -41,6 +50,7 @@ const AboutPage = ({ data }) => {
   return (
     <Layout>
       <AboutPageTemplate
+        image={post.frontmatter.image}
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -61,6 +71,13 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
