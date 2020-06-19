@@ -38,6 +38,23 @@ main:
   image3:
     alt: Coffee beans
     image: /img/ZimmerU2.JPG
+main2:
+  heading: Schlafzimmer Obergeschoss
+  description:
+    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+    betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
+    Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
+    Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
+    Aufwachen am Morgen.
+  image1:
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/Stiege.JPG
+  image2:
+    alt: A green cup of a coffee on a wooden table
+    image: /img/ZimmerU1.JPG
+  image3:
+    alt: Coffee beans
+    image: /img/ZimmerU2.JPG
 full_image: /img/fluss_andere_seite_garten_haus.JPG
 pricing:
   heading: Unsere Preise

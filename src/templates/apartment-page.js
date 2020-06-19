@@ -14,6 +14,7 @@ export const ApartmentPageTemplate = ({
   description,
   intro,
   main,
+  main2,
   fullImage,
   pricing,
 }) => (
@@ -64,6 +65,35 @@ export const ApartmentPageTemplate = ({
                   </div>
                 </div>
               </div>
+              <div className="columns">
+                <div className="column is-12">
+                  <h3 className="has-text-weight-semibold is-size-3">
+                    {main2.heading}
+                  </h3>
+                  <p>{main2.description}</p>
+                </div>
+              </div>
+              <div className="tile is-ancestor">
+                <div className="tile is-vertical">
+                  <div className="tile">
+                    <div className="tile is-parent is-vertical">
+                      <article className="tile is-child">
+                        <PreviewCompatibleImage imageInfo={main2.image1} />
+                      </article>
+                    </div>
+                    <div className="tile is-parent">
+                      <article className="tile is-child">
+                        <PreviewCompatibleImage imageInfo={main2.image2} />
+                      </article>
+                    </div>
+                  </div>
+                  <div className="tile is-parent">
+                    <article className="tile is-child">
+                      <PreviewCompatibleImage imageInfo={main2.image3} />
+                    </article>
+                  </div>
+                </div>
+              </div>
               <div
                 className="full-width-image-container"
                 style={{
@@ -102,6 +132,13 @@ ApartmentPageTemplate.propTypes = {
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
+  main2: PropTypes.shape({
+    heading: PropTypes.string,
+    description: PropTypes.string,
+    image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  }),
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   pricing: PropTypes.shape({
     heading: PropTypes.string,
@@ -122,6 +159,7 @@ const ApartmentPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
+        main2={frontmatter.main2}
         fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
       />
@@ -168,6 +206,40 @@ export const apartmentPageQuery = graphql`
           description
         }
         main {
+          heading
+          description
+          image1 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 526, quality: 92) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+          image2 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 526, quality: 92) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+          image3 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+        main2 {
           heading
           description
           image1 {
