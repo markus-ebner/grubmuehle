@@ -82,13 +82,13 @@ main4:
     Aufwachen am Morgen.
   image1:
     alt: Küchenfront
-    image: /img/Küche2.JPG
+    image: /img/kueche2.jpg
   image2:
     alt: Sitzecke
-    image: /img/Küche1.JPG
+    image: /img/kueche1.jpg
   image3:
     alt: Küchenfront
-    image: /img/Küche3.JPG
+    image: /img/kueche3.jpg
 main5:
   heading: Bad & WC
   description:
