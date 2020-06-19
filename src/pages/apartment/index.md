@@ -2,7 +2,7 @@
 heading: Genügend Freiraum in 120 Quadratmeter
 path: /apartment
 templateKey: apartment-page
-title: Unser Apartment
+title: Unser Ferienhaus
 image: /img/außen_hell.JPG
 description: "Im Erdgeschoss: Entrée, 1 Schlafzimmer für 2 Personen und
   Abstellraum. Über eine Stiege erreichen Sie im Obergeschoss eine komplett

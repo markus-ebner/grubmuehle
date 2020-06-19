@@ -65,7 +65,7 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/apartment">
-                Apartment
+                Ferienhaus
               </Link>
               <Link className="navbar-item" to="/about">
                 Über uns
