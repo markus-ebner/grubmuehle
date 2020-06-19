@@ -180,7 +180,30 @@ export const apartmentPageQuery = graphql`
           heading
           description
         }
-        main {
+
+        full_image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        pricing {
+          heading
+          description
+          plans {
+            description
+            items
+            plan
+            price
+          }
+        }
+      }
+    }
+  }
+`;
+/*
+main {
           heading
           description
           image1 {
@@ -350,24 +373,4 @@ export const apartmentPageQuery = graphql`
             }
           }
         }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
-        }
-      }
-    }
-  }
-`;
+        */
