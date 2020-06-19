@@ -65,10 +65,10 @@ main3:
     Aufwachen am Morgen.
   image1:
     alt: Wohnzimmer
-    image: /img/Wohn1.JPG
+    image: /img/wz1.JPG
   image2:
     alt: Wohnzimmer zum Balkon
-    image: /img/wohn3.JPG
+    image: /img/wz3.JPG
   image3:
     alt: Balkon
     image: /img/balkon.JPG
