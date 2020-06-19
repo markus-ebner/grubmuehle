@@ -12,11 +12,11 @@ description: "Im Erdgeschoss: Entrée, 1 Schlafzimmer für 2 Personen und
   Grünen. Abstellplatz für Fahrräder vorhanden. WLAN inbegriffen. "
 intro:
   blurbs:
-    - image: /img/Wohn6.JPG
+    - image: /img/wz6.JPG
       text: Vom Wohnzimmer gelangt man direkt auf den Balkon.
     - image: /img/Schl1.JPG
       text: Das Schlafzimmer im Obergeschoss bietet ein großes Doppelbett.
-    - image: /img/Küche3.JPG
+    - image: /img/kueche3.jpg
       text: Die Küche dient als netter Aufenthaltsraum und auch die wichtigsten
         Kochutensilien sind für sie als Selbstversoger vorhanden.
     - image: /img/ZimmerU2.JPG
@@ -106,7 +106,7 @@ main5:
   image3:
     alt: Bad
     image: /img/bad.JPG
-full_image: /img/fluss_andere_seite_garten_haus.JPG
+full_image: /img/balkon_aussicht_garten.JPG
 pricing:
   heading: Unsere Preise
   description: Wir versuchen familien- und urlauberfreundliche Preise für unsere

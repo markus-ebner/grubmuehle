@@ -39,13 +39,6 @@ export const ApartmentPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
-
-              <Room main={main} />
-              <Room main={main2} />
-              <Room main={main3} />
-              <Room main={main4} />
-              <Room main={main5} />
-
               <div
                 className="full-width-image-container"
                 style={{
@@ -56,6 +49,12 @@ export const ApartmentPageTemplate = ({
                   })`,
                 }}
               />
+              <Room main={main} />
+              <Room main={main2} />
+              <Room main={main3} />
+              <Room main={main4} />
+              <Room main={main5} />
+
               <h2 className="has-text-weight-semibold is-size-2">
                 {pricing.heading}
               </h2>

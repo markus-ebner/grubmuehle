@@ -3,7 +3,7 @@ import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
 export const Room = ({ main }) => {
   return (
-    <span>
+    <div style={{ marginTop: "70px" }}>
       <div className="columns">
         <div className="column is-12">
           <h3 className="has-text-weight-semibold is-size-3">{main.heading}</h3>
@@ -31,6 +31,6 @@ export const Room = ({ main }) => {
           </div>
         </div>
       </div>
-    </span>
+    </div>
   );
 };
