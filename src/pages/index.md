@@ -35,11 +35,4 @@ intro:
       text:
         Die zentrale Lage von unserem Haus Grubmühle ermöglicht es, dass man die
         meisten Städte, Seen und Berge schnell erreichen kann.
-  heading: Was wir bieten
-  description: "Lage: direkt beim Kleinbauernhof Grubmühle, in ruhiger Lage am
-    Roggbach, umgeben von Wiesen und Wäldern. Die Lage in Mittelkärnten ist ein
-    guter Ausgangspunkt für Ausflugsziele und Aktivitäten an den nahegelegen
-    Seen und Bergen (Wörthersee Card inklusive). Direkt neben dem Haus
-    plätschert der Bach ‚Rogg‘ vorbei, wo Sie sich an heißen Tagen abkühlen
-    können. "
 ---
