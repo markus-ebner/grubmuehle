@@ -47,12 +47,6 @@ const ApartmentPagePreview = ({ entry, getAsset }) => {
           alt: entry.getIn(["data", "main2", "image3", "alt"]),
         },
       }}
-      fullImage={entry.getIn(["data", "full_image"])}
-      pricing={{
-        heading: entry.getIn(["data", "pricing", "heading"]),
-        description: entry.getIn(["data", "pricing", "description"]),
-        plans: pricingPlans,
-      }}
       main3={{
         heading: entry.getIn(["data", "main3", "heading"]),
         description: entry.getIn(["data", "main3", "description"]),

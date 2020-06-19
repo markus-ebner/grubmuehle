@@ -10,7 +10,11 @@ const Navbar = class extends React.Component {
       navBarActiveClass: "",
     };
   }
-
+  checkKey = (event) => {
+    if (event.keyCode === 13) {
+      this.toggleHamburger();
+    }
+  };
   toggleHamburger = () => {
     // toggle the active boolean in the state
     this.setState(
@@ -47,12 +51,15 @@ const Navbar = class extends React.Component {
                 style={{ width: "100px", maxHeight: "none" }}
               />
             </Link>
-            {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               style={{ height: "unset", marginRight: "10px" }}
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
+              onKeyDown={(event) => this.checkKey(event)}
+              role="menu"
+              aria-label="Menü öffnen"
+              tabIndex={0}
             >
               <span />
               <span />
