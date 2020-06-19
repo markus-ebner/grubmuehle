@@ -19,12 +19,12 @@ intro:
   blurbs:
     - image: /img/undraw_nature_m5ll.png
       text:
-        Unser Apartment ist von viel Natur umgeben. Der Roggbach fließt direkt vor
+        Unser Ferienhaus ist von viel Natur umgeben. Der Roggbach fließt direkt vor
         der Haustüre vorbei und die Bäume rundherum bieten Schatten, wenn es mal
         zu heiß wird.
     - image: /img/undraw_people_tax5.png
       text:
-        "Unsere Ferienwohnung bietet für bis zu 6 Personen Platz. Auch Kinder sind
+        "Unser Ferienhaus bietet für bis zu 6 Personen Platz. Auch Kinder sind
         sehr herzlich willkommen, da in der Nachbarschaft genügend
         Spielkameraden vorhanden sind. "
     - image: /img/undraw_through_the_window_51ew.png
