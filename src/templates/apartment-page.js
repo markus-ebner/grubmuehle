@@ -49,8 +49,8 @@ export const ApartmentPageTemplate = ({
                   })`,
                 }}
               />
-              {/* <Room main={main} />
-              <Room main={main2} /> */}
+              <Room main={main} />
+              <Room main={main2} />
               {/* <Room main={main3} />
               <Room main={main4} />
               <Room main={main5} /> */}
@@ -180,7 +180,6 @@ export const apartmentPageQuery = graphql`
           heading
           description
         }
-
         full_image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -188,22 +187,7 @@ export const apartmentPageQuery = graphql`
             }
           }
         }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
-        }
-      }
-    }
-  }
-`;
-/*
-main {
+        main {
           heading
           description
           image1 {
@@ -271,6 +255,22 @@ main {
             }
           }
         }
+        pricing {
+          heading
+          description
+          plans {
+            description
+            items
+            plan
+            price
+          }
+        }
+      }
+    }
+  }
+`;
+/*
+
         main3 {
           heading
           description
