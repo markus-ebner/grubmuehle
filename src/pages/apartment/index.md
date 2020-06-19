@@ -68,7 +68,7 @@ main3:
     image: /img/Wohn1.JPG
   image2:
     alt: Wohnzimmer zum Balkon
-    image: /img/Wohn3.JPG
+    image: /img/wohn3.JPG
   image3:
     alt: Balkon
     image: /img/balkon.JPG
