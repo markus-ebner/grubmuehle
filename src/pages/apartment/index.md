@@ -1,5 +1,5 @@
 ---
-heading: Genügend Freiraum in 120 Quadratmeter
+heading: Genügend Freiraum auf 120 Quadratmeter
 path: /apartment
 templateKey: apartment-page
 title: Unser Ferienhaus
