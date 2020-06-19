@@ -49,8 +49,8 @@ export const ApartmentPageTemplate = ({
                   })`,
                 }}
               />
-              <Room main={main} />
-              <Room main={main2} />
+              {/* <Room main={main} />
+              <Room main={main2} /> */}
               {/* <Room main={main3} />
               <Room main={main4} />
               <Room main={main5} /> */}
