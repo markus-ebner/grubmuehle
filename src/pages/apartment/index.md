@@ -21,6 +21,7 @@ intro:
         Kochutensilien sind für sie als Selbstversoger vorhanden.
     - image: /img/ZimmerU2.JPG
       text: Im unteren Schlafzimmer hören sie das Rauschen des Baches noch lauter.
+full_image: /img/balkon_aussicht_garten.JPG
 main:
   heading: Schlafzimmer Erdgeschoss
   description:
@@ -90,7 +91,7 @@ main4:
     alt: Küchenfront
     image: /img/kueche3.jpg
 main5:
-  heading: Bad & WC
+  heading: Bad und WC
   description:
     Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
@@ -99,14 +100,13 @@ main5:
     Aufwachen am Morgen.
   image1:
     alt: WC
-    image: /img/wc.JPG
+    image: /img/wc_hoch.jpg
   image2:
     alt: Vorraum WC
-    image: /img/vor_klo.JPG
+    image: /img/vor_wc.jpg
   image3:
     alt: Bad
-    image: /img/bad.JPG
-full_image: /img/balkon_aussicht_garten.JPG
+    image: /img/bad_dusche.jpg
 pricing:
   heading: Unsere Preise
   description: Wir versuchen familien- und urlauberfreundliche Preise für unsere
