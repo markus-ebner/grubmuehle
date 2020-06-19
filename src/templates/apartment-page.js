@@ -53,7 +53,7 @@ export const ApartmentPageTemplate = ({
               <Room main={main2} />
               <Room main={main3} />
               <Room main={main4} />
-              {/* <Room main={main5} /> */}
+              <Room main={main5} />
 
               <h2 className="has-text-weight-semibold is-size-2">
                 {pricing.heading}
@@ -323,24 +323,6 @@ export const apartmentPageQuery = graphql`
             }
           }
         }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
-        }
-      }
-    }
-  }
-`;
-/*
-
-        
-        
         main5 {
           heading
           description
@@ -375,4 +357,17 @@ export const apartmentPageQuery = graphql`
             }
           }
         }
-        */
+        pricing {
+          heading
+          description
+          plans {
+            description
+            items
+            plan
+            price
+          }
+        }
+      }
+    }
+  }
+`;
