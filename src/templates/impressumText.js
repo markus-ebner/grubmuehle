@@ -16,7 +16,7 @@ export const ImpressumText = () => {
       <br />
       <p>
         <strong>Kontakt:</strong> <br />
-        Telefon: 0664/123123123
+        Telefon: +43 650/4726353
         <br />
         E-Mail:{" "}
         <a href="mailto:claudia.sonvilla@aon.at?subject=Impressum Haus Grubmühle">

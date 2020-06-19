@@ -57,7 +57,7 @@ export default class Index extends React.Component {
                       Österreich
                     </p>
                     <p>
-                      Tel: 0664/123123123
+                      Tel: +43 650/4726353
                       <br />
                       E-Mail:{" "}
                       <a href="mailto:claudia.sonvilla@aon.at?subject=Urlaub im Haus Grubmühle">
