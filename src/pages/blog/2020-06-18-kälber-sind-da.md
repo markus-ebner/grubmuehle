@@ -2,17 +2,20 @@
 templateKey: blog-post
 title: Kälber sind da
 date: 2020-06-18T18:55:47.742Z
-description: "Im Frühjahr haben wir heuer bereits zwei Kälber in unserer
-  Kuhgemeinschaft willkommen geheißen. Franz Josef und Franz Ferdinand sind
-  geboren. "
+description: " "
 featuredpost: true
-featuredimage: /img/Kuh1.JPG
+featuredimage: /img/kalb_kuh.jpg
 ---
+Im Frühjahr haben wir heuer bereits zwei Kälber in unserer Kuhherde willkommen geheißen. Franz Josef und Franz Ferdinand sind geboren. 
 
-Kleines Kalb
+Franz Josef war allerdings leider etwas fürh dran und daher eher klein und schwach, aber nach anfänglichen Schwierigkeiten entwicklt er sich prächtig. 
 
-Melken
+![Baby Kuh](/img/kalb_klein.jpeg "Baby Kuh")
 
-Großes Kalb
+Wir mussten die Kuh melken, damit wir dem Kalb etwas Milch zum Trinken geben konnten, da es zu schwach war von selbst aufzustehen. Anfangs mussten wir zu dritt die Mutterkuh festhalten und melken, aber schnell wurde uns klar, sobald das Klab nahe an der Mutterkuh liegt, dann sprießt die Milch regelrecht heraus.
 
-Verkauf
+Zwei Wochen darauf haben wir dann den nächsten Zuwachs, rechtzeitig, bekommen. Der kleine Stier Franz Ferdinand war geboren und läuft froh und munter auf den Wiesen herum. 
+
+![Kalb](/img/Kuh1.JPG "Kalb")
+
+Mittlerweile, haben wir Franz Josef und seine Mutter an einen Bauern in der Umgebung verkauft, aber dort wird er wohl noch zu einem großen Stier heranwachsen.
