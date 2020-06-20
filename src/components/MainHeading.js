@@ -6,7 +6,7 @@ export const MainHeading = ({ title, url }) => {
       className="full-width-image-container margin-top-0"
       style={{
         backgroundImage: `url(${url})`,
-        backgroundPosition: `bottom left`,
+        backgroundPosition: `center -15vh`,
         backgroundAttachment: `fixed`,
       }}
     >

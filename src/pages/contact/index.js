@@ -37,7 +37,10 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <MainHeading title={"Kontakt"} url={"/img/außen_hell_garten.jpg"} />
+        <MainHeading
+          title={"Kontakt"}
+          url={"/img/fluss_andere_seite_garten_haus.jpg"}
+        />
         <section className="section">
           <div className="container">
             <div className="content">

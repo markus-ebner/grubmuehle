@@ -23,6 +23,22 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <div style={{ float: "left", marginRight: "30px" }}>
+              <video
+                src="/img/imkerin_bienen.mp4"
+                width="350"
+                height="620"
+                controls
+                style={{
+                  display: `${title === "Honigschlecken" ? "block" : "none"}`,
+                }}
+              >
+                This video cannot be played in your current browser.
+                <br />
+                View the download version at{" "}
+                <a href="/img/imkerin_bienen.mp4">Link address</a>.
+              </video>
+            </div>
             <p>{description}</p>
             <PostContent content={content} />
           </div>
