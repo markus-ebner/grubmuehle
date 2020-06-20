@@ -21,11 +21,11 @@ intro:
         Kochutensilien sind für sie als Selbstversoger vorhanden.
     - image: /img/ZimmerU2.JPG
       text: Im unteren Schlafzimmer hören sie das Rauschen des Baches noch lauter.
-full_image: /img/balkon_aussicht_garten.JPG
+  heading: " "
+  description: " "
 main:
   heading: Schlafzimmer Erdgeschoss
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -41,8 +41,7 @@ main:
     image: /img/ZimmerU2.JPG
 main2:
   heading: Schlafzimmer Obergeschoss
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -58,8 +57,7 @@ main2:
     image: /img/Schl1.JPG
 main3:
   heading: Wohnzimmer
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -75,8 +73,7 @@ main3:
     image: /img/balkon.JPG
 main4:
   heading: Küche
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -92,8 +89,7 @@ main4:
     image: /img/kueche3.jpg
 main5:
   heading: Bad und WC
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -107,6 +103,7 @@ main5:
   image3:
     alt: Bad
     image: /img/bad_dusche.jpg
+full_image: /img/balkon_aussicht_garten.JPG
 pricing:
   heading: Unsere Preise
   description: Wir versuchen familien- und urlauberfreundliche Preise für unsere
@@ -120,14 +117,20 @@ pricing:
         - Großzügige Raumaufteilung
       plan: 1-2 Personen
       price: "75"
-    - description: Auch für eine kleine Familie oder 2 Pärchen ein attraktiven Preis.
+    - description: Auch für eine kleine Familie oder 2 Pärchen haben wir einen
+        attraktiven Preis.
       items:
-        - Jedes weitere Kind gratis
+        - ab 2 Kinder --> jedes weiter Kind gratis
       plan: 3-4 Personen
       price: "90"
-    - description: Jede weitere Person über 16 Jahren kostet 10€/Nacht mehr
+    - description: 5 Personen
       items:
-        - Kinder unter 16 Jahre sind gratis
-      plan: 5-6 Personen
-      price: 100-110
+        - Großes Schlafsofa für die fünfte Person
+      plan: 5 Personen
+      price: "100"
+    - plan: 6 Personen
+      price: "110"
+      description: "6 Personen "
+      items:
+        - Großes Schlafsofa für die fünfte & sechste Person
 ---
