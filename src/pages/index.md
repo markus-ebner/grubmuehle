@@ -7,9 +7,15 @@ subheading: Entspannen am Bauernhof & Bach
 mainpitch:
   title: Bäuerlicher Genuss
   description: >
-    Sie verbringen Ihren Urlaub gerne auf dem Land und genießen das ländliche
-    Leben? Dann können Sie im Ferienhaus Grubmühle Ihre Auszeit auf einem
-    Bauernhof genießen.
+    Sie verbringen Ihren Urlaub gerne auf dem Land und möchten in einem
+    gemütlichen Ferienhaus zwischen dem Rauschen des Baches und dem Gezwitscher
+    der Vögel einen Familienurlaub oder einen Aktivurlaub verbringen? Dann sind
+    Sie bei uns richtig. Hier kann man die Seele baumeln lassen, den
+    Alltagsstess abwerfen und neue Kraft tanken. Und die Kinder nach Herzenslust
+    spielen. 
+
+
+    Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Das Haus ist ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahegelegenen Seen und Bergen. 
 description: "Sie erwartet am Kleinbauernhof Grubmühle eine ruhiger Lage am
   Roggbach, umgeben von Wiesen und Wäldern. Die Lage in Mittelkärnten ist ein
   guter Ausgangspunkt für Ausflugsziele und Aktivitäten an den nahegelegen Seen
