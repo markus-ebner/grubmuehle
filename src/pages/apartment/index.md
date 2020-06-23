@@ -11,16 +11,7 @@ description: "Im Erdgeschoss: Entrée, 1 Schlafzimmer für 2 Personen und
   Balkon mit Sitzgelegenheit. Dusche und separate Toilette. Sitzgelegenheit im
   Grünen. Abstellplatz für Fahrräder vorhanden. WLAN inbegriffen. "
 intro:
-  blurbs:
-    - image: /img/wz6.JPG
-      text: Vom Wohnzimmer gelangt man direkt auf den Balkon.
-    - image: /img/Schl1.JPG
-      text: Das Schlafzimmer im Obergeschoss bietet ein großes Doppelbett.
-    - image: /img/kueche3.jpg
-      text: Die Küche dient als netter Aufenthaltsraum und auch die wichtigsten
-        Kochutensilien sind für sie als Selbstversoger vorhanden.
-    - image: /img/ZimmerU2.JPG
-      text: Im unteren Schlafzimmer hören sie das Rauschen des Baches noch lauter.
+  blurbs: []
   heading: " "
   description: " "
 main:
