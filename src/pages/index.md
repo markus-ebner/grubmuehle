@@ -15,7 +15,7 @@ mainpitch:
     spielen. 
 
 
-    Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Das Haus ist ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahegelegenen Seen und Bergen. 
+    Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen. 
 description: "Sie erwartet am Kleinbauernhof Grubmühle eine ruhiger Lage am
   Roggbach, umgeben von Wiesen und Wäldern. Die Lage in Mittelkärnten ist ein
   guter Ausgangspunkt für Ausflugsziele und Aktivitäten an den nahegelegen Seen
