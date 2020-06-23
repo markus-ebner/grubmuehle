@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Haus Grubmühle
 image: /img/außen_hell_garten.JPG
-heading: Haus Grubmühle
+heading: Haus Grubm
 subheading: Entspannen am Bauernhof & Bach
 mainpitch:
   title: Genuss am Land
@@ -16,11 +16,11 @@ mainpitch:
 
 
     Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen. 
-description: "Sie erwartet am Kleinbauernhof Grubmühle eine ruhiger Lage am
+description: Sie erwartet am Kleinbauernhof Grubmühle eine ruhiger Lage am
   Roggbach, umgeben von Wiesen und Wäldern. Die Lage in Mittelkärnten ist ein
   guter Ausgangspunkt für Ausflugsziele und Aktivitäten an den nahegelegen Seen
   und Bergen. Direkt neben dem Haus plätschert der Bach ‚Rogg‘ vorbei, wo Sie
-  sich an heißen Tagen abkühlen können. "
+  sich an heißen Tagen abkühlen können. gzjgmg
 intro:
   blurbs:
     - image: /img/undraw_nature_m5ll.png
