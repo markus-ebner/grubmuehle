@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import Pricing from "../components/Pricing";
 import { Room } from "../components/Room";
 import { MainHeading } from "../components/MainHeading";
 
@@ -12,14 +11,12 @@ export const ApartmentPageTemplate = ({
   title,
   heading,
   description,
-  intro,
   main,
   main2,
   main3,
   main4,
   main5,
   fullImage,
-  pricing,
 }) => (
   <div className="content">
     <MainHeading
@@ -38,7 +35,6 @@ export const ApartmentPageTemplate = ({
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
               <div
                 className="full-width-image-container"
                 style={{
@@ -54,12 +50,6 @@ export const ApartmentPageTemplate = ({
               <Room main={main3} />
               <Room main={main4} />
               <Room main={main5} />
-
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
             </div>
           </div>
         </div>
@@ -73,9 +63,6 @@ ApartmentPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
   main: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
@@ -112,11 +99,6 @@ ApartmentPageTemplate.propTypes = {
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  pricing: PropTypes.shape({
-    heading: PropTypes.string,
-    description: PropTypes.string,
-    plans: PropTypes.array,
-  }),
 };
 
 const ApartmentPage = ({ data }) => {
@@ -136,7 +118,6 @@ const ApartmentPage = ({ data }) => {
         main4={frontmatter.main4}
         main5={frontmatter.main5}
         fullImage={frontmatter.full_image}
-        pricing={frontmatter.pricing}
       />
     </Layout>
   );
@@ -166,20 +147,6 @@ export const apartmentPageQuery = graphql`
         }
         heading
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
         full_image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -355,16 +322,6 @@ export const apartmentPageQuery = graphql`
                 }
               }
             }
-          }
-        }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
           }
         }
       }

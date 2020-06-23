@@ -10,13 +10,10 @@ description: "Im Erdgeschoss: Entrée, 1 Schlafzimmer für 2 Personen und
   mit Doppelbett, geräumiges Wohnzimmer mit TV und Schlafsofa (Doppelcouch),
   Balkon mit Sitzgelegenheit. Dusche und separate Toilette. Sitzgelegenheit im
   Grünen. Abstellplatz für Fahrräder vorhanden. WLAN inbegriffen. "
-intro:
-  blurbs: []
-  heading: " "
-  description: " "
 main:
   heading: Schlafzimmer Erdgeschoss
-  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description:
+    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -32,7 +29,8 @@ main:
     image: /img/ZimmerU2.JPG
 main2:
   heading: Schlafzimmer Obergeschoss
-  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description:
+    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -48,7 +46,8 @@ main2:
     image: /img/Schl1.JPG
 main3:
   heading: Wohnzimmer
-  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description:
+    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -64,7 +63,8 @@ main3:
     image: /img/balkon.JPG
 main4:
   heading: Küche
-  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description:
+    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -80,7 +80,8 @@ main4:
     image: /img/kueche3.jpg
 main5:
   heading: Bad und WC
-  description: Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
+  description:
+    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
     betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
     Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
     Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
@@ -95,33 +96,4 @@ main5:
     alt: Bad
     image: /img/bad_dusche.jpg
 full_image: /img/balkon_aussicht_garten.JPG
-pricing:
-  heading: Unsere Preise
-  description: Wir versuchen familien- und urlauberfreundliche Preise für unsere
-    Gäste zu bieten. Zu den angebotenen Preisen kommen noch die Orts- und
-    Nächtigungstaxe (€ 2,10/Person pro Nacht ab 17 J. (vor Ort zu zahlen) und
-    die Endreinigungsgebühr (einmalig 50€) hinzu.
-  plans:
-    - description: Für Pärchen oder Alleinreisende haben wir natürlich ein
-        verbessertes Angebot.
-      items:
-        - Großzügige Raumaufteilung
-      plan: 1-2 Personen
-      price: "75"
-    - description: Auch für eine kleine Familie oder 2 Pärchen haben wir einen
-        attraktiven Preis.
-      items:
-        - ab 2 Kinder --> jedes weiter Kind gratis
-      plan: 3-4 Personen
-      price: "90"
-    - description: 5 Personen
-      items:
-        - Großes Schlafsofa für die fünfte Person
-      plan: 5 Personen
-      price: "100"
-    - plan: 6 Personen
-      price: "110"
-      description: "6 Personen "
-      items:
-        - Großes Schlafsofa für die fünfte & sechste Person
 ---
