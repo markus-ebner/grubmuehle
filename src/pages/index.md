@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Haus Grubmühle
 image: /img/außen_hell_garten.JPG
-heading: Haus Grubm
+heading: Haus Grubmühle
 subheading: Entspannen am Bauernhof & Bach
 mainpitch:
   title: Genuss am Land
@@ -16,25 +16,26 @@ mainpitch:
 
 
     Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen. 
-description: Sie erwartet am Kleinbauernhof Grubmühle eine ruhiger Lage am
-  Roggbach, umgeben von Wiesen und Wäldern. Die Lage in Mittelkärnten ist ein
-  guter Ausgangspunkt für Ausflugsziele und Aktivitäten an den nahegelegen Seen
-  und Bergen. Direkt neben dem Haus plätschert der Bach ‚Rogg‘ vorbei, wo Sie
-  sich an heißen Tagen abkühlen können. gzjgmg
+description: Unser Kleinbauernhof Grubmühle bietet eine ruhige Bachlage umgeben
+  von Wiesen und Wäldern. Direkt neben dem Haus plätschert der Roggbach vorbei.
+  Familien, Naturliebhaber und Aktivurlauber finden Erholung und
+  Ausflugsmöglichkeiten gleichermaßen. Die Kärntner Seen und Berge rufen!
 intro:
   blurbs:
-    - image: /img/undraw_nature_m5ll.png
-      text: Unser Ferienhaus ist von viel Natur umgeben. Der Roggbach fließt direkt
-        vor der Haustüre vorbei und die Bäume rundherum bieten Schatten, wenn es
-        mal zu heiß wird.
-    - image: /img/undraw_people_tax5.png
-      text: "Unser Ferienhaus bietet für bis zu 6 Personen Platz. Auch Kinder sind
-        sehr herzlich willkommen, da in der Nachbarschaft genügend
-        Spielkameraden vorhanden sind. "
-    - image: /img/undraw_through_the_window_51ew.png
-      text: "Unser Balkon bietet optimalen Blick auf den Roggbach und man kann auch
-        sonst in allen anderen Zimmern das Rauschen des Flusses hören. "
+    - image: /img/fluss_andere_seite_haus.JPG
+      text: "Unser Ferienhaus liegt ruhig, aber nicht einsam. Die Rogg - ein kleiner
+        sanft fließender Bach - ladet zum Verweilen und für die Kinder auch zum
+        Spielen ein.  Wiesen und Wälder begrenzen den Bauernhof und die
+        Streusiedlung. "
+    - image: /img/außen_hell.JPG
+      text: "Unser Ferienhaus bietet für Familien und Kleingruppen bis zu 6 Personen
+        ausreichend Platz. Kinder sind sehr herzlich willkommen, auch der
+        10-jährige Sohn Felix freut sich schon auf Spielkameraden.  "
+    - image: /img/balkon_aussicht_garten.JPG
+      text: "Bachgenuss am Balkon. Bachblick und ein angenehmes, leises Rauschen
+        bieten alle Zimmer des Ferienhauses. "
     - image: /img/undraw_Country_side_k696.png
-      text: Die zentrale Lage von unserem Haus Grubmühle ermöglicht es, dass man die
-        meisten Städte, Seen und Berge schnell erreichen kann.
+      text: "Die zentrale Lage in Mittelkärnten ermöglicht Ausflüge in das
+        Mittelkärntner Seengebiet, in die Nockberge oder in die Landeshauptstadt
+        Klagenfurt, alles im Umkreis von 20 km. "
 ---
