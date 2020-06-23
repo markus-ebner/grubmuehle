@@ -7,7 +7,7 @@ image: /img/außen_vorne_hell.JPG
 \
 Unser Hof **vulgo Grubmühle** auf 550 m Seehöhe befindet sich in der [Gemeinde St. Urban](https://www.sturban.at/) am Urbansee, dem wärmsten Bergsee Kärntens und wird in der vierten Generation von uns, Claudia und Max, im Nebenerwerb - heute vielmehr als Hobby - bewirtschaftet. Der Vulgarname lässt auf die bis in die 50er Jahre betriebene Mühle am Roggbach rückschließen. Anstelle der Alten Mühle wurde das Ferienhaus errichtet.
 
-Claudia und Max führen im Nebenerwerb einen kleinen Bauernhof: Vier Mutterkühe mit Jungtieren und Kleintiere wie Hasen, Katzen und Hühner werden am Hof gehalten und versorgt. Eier, Kräuter oder Gemüse aus dem Garten können gerne zur Selbstversorgung mitverwendet werden.  
+Claudia und Max führen im Nebenerwerb einen kleinen Bauernhof: Vier Mutterkühe mit Jungtieren und Kleintiere wie Hasen, Katzen und Hühner werden am Hof gehalten und versorgt. **Eier, Kräuter oder Gemüse** aus dem Garten können gerne **zur Selbstversorgung mitverwendet** werden.  
 
 ist daher ein ideales **Familienurlaubsplatzerl** für Naturliebhaber und Ausgangspunkt für Ausflüge zu den nahegelegenen Seen und Bergen. Auch für Biker und Radfahrer zentraler Ausgangsort in Mittelkärnten**.** [Wörthersee Card](https://www.woerthersee.com/de/woerthersee-plus-card/) inklusive.
 
