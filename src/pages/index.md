@@ -5,7 +5,7 @@ image: /img/außen_hell_garten.JPG
 heading: Haus Grubmühle
 subheading: Entspannen am Bauernhof & Bach
 mainpitch:
-  title: Bäuerlicher Genuss
+  title: Genuss am Land
   description: >
     Sie verbringen Ihren Urlaub gerne auf dem Land und möchten in einem
     gemütlichen Ferienhaus zwischen dem Rauschen des Baches und dem Gezwitscher
