@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const Pricing = ({ data }) => (
-  <div className="columns">
+  <div className="columns" style={{ marginTop: "30px" }}>
     {data.map((price) => (
       <div key={price.plan} className="column">
         <section className="section">

@@ -29,11 +29,12 @@ export const IndexPageTemplate = ({
       <div
         style={{
           display: "flex",
-          height: "150px",
+          height: "120px",
           lineHeight: "1",
-          justifyContent: "space-around",
+          justifyContent: "space-evenly",
           alignItems: "left",
           flexDirection: "column",
+          marginTop: "-200px",
         }}
       >
         <h1

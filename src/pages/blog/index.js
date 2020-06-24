@@ -13,13 +13,11 @@ export default class BlogIndexPage extends React.Component {
           <div className="container">
             <div className="content">
               <div className="column is-10 is-offset-1">
-                <div className="section">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    News vom Hof
-                  </h3>
-                </div>
+                <h3 className="has-text-weight-semibold is-size-2">
+                  News vom Hof
+                </h3>
+                <BlogRoll />
               </div>
-              <BlogRoll />
             </div>
           </div>
         </section>

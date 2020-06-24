@@ -20,7 +20,7 @@ export const PricePageTemplate = ({ image, pricing }) => {
                 <h3 className="has-text-weight-semibold is-size-2">
                   {pricing.heading}
                 </h3>
-                <p className="is-size-5">{pricing.description}</p>
+                <p>{pricing.description}</p>
                 <Pricing data={pricing.plans} />
               </div>
             </div>

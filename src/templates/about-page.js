@@ -24,9 +24,7 @@ export const AboutPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="section">
-                <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                  {title}
-                </h1>
+                <h3 className="has-text-weight-semibold is-size-2">{title}</h3>
                 <PageContent className="content" content={content} />
               </div>
             </div>
