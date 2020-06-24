@@ -71,11 +71,11 @@ export default class Index extends React.Component {
                   <div className="maps-container">
                     <iframe
                       src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d89182.59953605272!2d14.085073342092313!3d46.668213671187985!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4770652fa8b6a01d%3A0x7ae20bafb94af62d!2sGrubm%C3%BChlenweg%208%2C%209554%20Agsdorf-Gegend!5e0!3m2!1sde!2sat!4v1593013051238!5m2!1sde!2sat"
-                      frameborder="0"
+                      frameBorder="0"
                       style={{ border: 0 }}
-                      allowfullscreen=""
+                      allowFullScreen=""
                       aria-hidden="false"
-                      tabindex="0"
+                      tabIndex="0"
                     ></iframe>
                   </div>
                   <div className="section">
