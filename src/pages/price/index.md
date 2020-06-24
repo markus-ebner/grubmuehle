@@ -4,7 +4,7 @@ subheading: " "
 path: /price
 templateKey: price-page
 title: Preise
-image: /img/logo.svg
+image: /img/undraw_Country_side_k696.png
 pricing:
   heading: Unsere Preise
   description: Wir versuchen, familien- und urlauberfreundliche Preise für unsere

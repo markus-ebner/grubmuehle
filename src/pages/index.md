@@ -34,7 +34,7 @@ intro:
     - image: /img/balkon_aussicht_garten.JPG
       text: "Bachgenuss am Balkon. Bachblick und ein angenehmes, leises Rauschen
         bieten alle Zimmer des Ferienhauses. "
-    - image: /img/undraw_Country_side_k696.png
+    - image: /img/lage3.png
       text: "Die zentrale Lage in Mittelkärnten ermöglicht Ausflüge in das
         Mittelkärntner Seengebiet, in die Nockberge oder in die Landeshauptstadt
         Klagenfurt, alles im Umkreis von 20 km. "
