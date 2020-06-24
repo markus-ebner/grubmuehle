@@ -37,4 +37,4 @@ pricing:
       items:
         - Großes Schlafsofa für die fünfte & sechste Person
 ---
-sf
+gf
