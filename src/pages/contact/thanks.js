@@ -6,7 +6,9 @@ export default () => (
     <section className="section">
       <div className="container">
         <div className="content">
-          <h1>Danke für deine Anfrage!</h1>
+          <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+            Danke für deine Anfrage!
+          </h1>
           <p>Wir werden uns so schnell wie möglich bei dir melden!</p>
         </div>
       </div>

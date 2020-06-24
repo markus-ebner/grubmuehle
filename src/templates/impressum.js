@@ -11,9 +11,9 @@ export const ImpressumPageTemplate = () => {
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="section">
-                <h1 className="title is-size-3 has-text-weight-bold is-bold-light">
+                <h3 className="has-text-weight-semibold is-size-2">
                   Impressum
-                </h1>
+                </h3>
                 <ImpressumText />
                 <p>
                   Made by{" "}
