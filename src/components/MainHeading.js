@@ -10,7 +10,7 @@ export const MainHeading = ({ title, url }) => {
         backgroundAttachment: `fixed`,
       }}
     >
-      <h1
+      {/* <h1
         className="has-text-weight-bold is-size-1"
         style={{
           boxShadow: "0.5rem 0 0 #0088D4, -0.5rem 0 0 #0088D4",
@@ -20,7 +20,7 @@ export const MainHeading = ({ title, url }) => {
         }}
       >
         {title}
-      </h1>
+      </h1> */}
     </section>
   );
 };
