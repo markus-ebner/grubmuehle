@@ -13,7 +13,7 @@ const Pricing = ({ data }) => (
             {price.price}€
           </h2>
           <p className="has-text-weight-semibold">{price.description}</p>
-          <ul>
+          <ul style={{ marginTop: "30px" }}>
             {price.items.map((item) => (
               <li key={item} className="is-size-5">
                 {item}
