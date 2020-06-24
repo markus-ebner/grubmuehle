@@ -21,8 +21,6 @@ Genießen Sie bei uns abwechslungsreiche**, echte Kärntner Sommerfrische**!
 
 Das Ferienhaus in ruhiger Lage wurde ursprünglich als Wohnung für die Eltern erbaut. Claudia und Max, beide berufstätig haben drei Erwachsene Kinder und leben mit ihrem jüngsten Sohn Felix am kleinen Hof. Die Nachbarschaft ist oftmals in die Arbeit am Hof eingebunden, das familiäre Dorfleben ist sehr kinderfreundlich. 
 
-Tochter Lucia betreibt seit 2020 als Jungimkerin eine Minihonigfarm mit zwei Bienenstöcken. Der Honig fließt daher erst langsam, aber die Freude über jeden Tropfen ist umso größer.
-
 Der 11 ha große Betrieb ist einer von ganz wenigen bäuerlichen Betrieben, die im Nebenerwerb geführt werden. Die Flächen werden daher extensiv natürlich bewirtschaftet.  Drei bis vier Mutterkühe beweiden umliegende Wiesen, Kleintiere am Hof dienen vor allem zur Selbstversorgung mit Fleisch. 
 
 Tochter Lucia betreibt seit 2020 als Jungimkerin eine Minihonigfarm mit zwei Bienenstöcken. Der Honig fließt daher erst langsam, aber die Freude über jeden Tropfen ist umso größer.
