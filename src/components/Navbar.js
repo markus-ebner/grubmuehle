@@ -53,7 +53,7 @@ const Navbar = class extends React.Component {
             </Link>
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              style={{ height: "unset", marginRight: "10px" }}
+              style={{ height: "unset" }}
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
               onKeyDown={(event) => this.checkKey(event)}
