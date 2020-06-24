@@ -4,13 +4,15 @@ subheading: " "
 path: /price
 templateKey: price-page
 title: Preise
-image: /img/außen_vorne_hell.JPG
+image: /img/logo.svg
 pricing:
   heading: Unsere Preise
-  description: Wir versuchen familien- und urlauberfreundliche Preise für unsere
+  description: "Wir versuchen familien- und urlauberfreundliche Preise für unsere
     Gäste zu bieten. Zu den angebotenen Preisen kommen noch die Orts- und
-    Nächtigungstaxe (€ 2,10/Person pro Nacht ab 17 J. (vor Ort zu zahlen) und
-    die Endreinigungsgebühr (einmalig 50€) hinzu.
+    Nächtigungstaxe mit € 2,10 pro Person und Nacht ab 17 Jahren und eine
+    einmalige Endreinigungsgebühr von 50 Euro hinzu. Beide sind vor Ort zu
+    bezahlen. Eine Anzahlung von 30 % erfolgt bei der Buchung, der Restbetrag
+    ist einen Monat vor dem Urlaubsantritt fällig. "
   plans:
     - description: Für Pärchen oder Alleinreisende haben wir natürlich ein
         verbessertes Angebot.
@@ -35,3 +37,4 @@ pricing:
       items:
         - Großes Schlafsofa für die fünfte & sechste Person
 ---
+sf
