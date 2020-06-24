@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Haus Grubmühle - Genuss am Land",
     description:
-      "Sie verbringen Ihren Urlaub gerne auf dem Land und möchten in einem gemütlichen Ferienhaus zwischen dem Rauschen des Baches und dem Gezwitscher der Vögel einen Familienurlaub oder einen Aktivurlaub verbringen? Dann sind Sie bei uns richtig. Hier kann man die Seele baumeln lassen, den Alltagsstess abwerfen und neue Kraft tanken. Und die Kinder nach Herzenslust spielen. Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen.",
+      "Sie verbringen Ihren Urlaub gerne auf dem Land und möchten in einem gemütlichen Ferienhaus zwischen dem Rauschen des Baches und dem Gezwitscher der Vögel einen Familienurlaub oder einen Aktivurlaub in Kärnten verbringen? Dann sind Sie beim Ferienhaus Grubmühle genau richtig. Hier kann man in der Umgebung von Feldkirchen die Seele baumeln lassen, den Alltagsstess abwerfen und neue Kraft tanken. Und die Kinder nach Herzenslust spielen. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

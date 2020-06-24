@@ -11,7 +11,7 @@ const TemplateWrapper = ({ children }) => {
   return (
     <div>
       <Helmet>
-        <html lang="en" />
+        <html lang="de" />
         <title>{title}</title>
         <meta name="title" content={title} />
         <meta name="description" content={description} />
@@ -38,14 +38,27 @@ const TemplateWrapper = ({ children }) => {
           href={`${withPrefix("/")}img/safari-pinned-tab.svg`}
           color="#ff4400"
         />
-        <meta name="theme-color" content="#fff" />
+        <meta name="theme-color" content="#0088D4" />
 
+        <meta name="robots" content="index, follow" />
+        <meta name="author" content="Ebner Markus" />
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
+        <meta property="og:url" content="https://ferienhaus-grubmuehle.at/" />
+        <meta
+          property="business:contact_data:street_address"
+          content="Grubmühlenweg 8"
+        />
+        <meta property="business:contact_data:locality" content="St. Urban" />
+        <meta property="business:contact_data:region" content="Kärnten" />
+        <meta property="business:contact_data:postal_code" content="9554" />
+        <meta
+          property="business:contact_data:country_name"
+          content="Österreich"
+        />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/og-image.jpg`}
+          content={`${withPrefix("/")}img/og-image.png`}
         />
       </Helmet>
       <Navbar />
