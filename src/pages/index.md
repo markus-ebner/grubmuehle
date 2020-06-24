@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Haus Grubmühle
 image: /img/außen_hell_garten.JPG
-heading: Haus Grubmühle
+heading: " "
 subheading: Entspannen am Bauernhof & Bach
 mainpitch:
   title: Genuss am Land
@@ -34,7 +34,7 @@ intro:
     - image: /img/balkon_aussicht_garten.JPG
       text: "Bachgenuss am Balkon. Bachblick und ein angenehmes, leises Rauschen
         bieten alle Zimmer des Ferienhauses. "
-    - image: /img/lage3.png
+    - image: /img/lage4.png
       text: "Die zentrale Lage in Mittelkärnten ermöglicht Ausflüge in das
         Mittelkärntner Seengebiet, in die Nockberge oder in die Landeshauptstadt
         Klagenfurt, alles im Umkreis von 20 km. "
