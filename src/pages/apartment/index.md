@@ -4,20 +4,16 @@ path: /apartment
 templateKey: apartment-page
 title: Unser Ferienhaus
 image: /img/außen_hell.JPG
-description: "Im Erdgeschoss: Entrée, 1 Schlafzimmer für 2 Personen und
-  Abstellraum. Über eine Stiege erreichen Sie im Obergeschoss eine komplett
-  ausgestattete Küche mit einem Backofen und einer Spülmaschine. 1 Schlafzimmer
-  mit Doppelbett, geräumiges Wohnzimmer mit TV und Schlafsofa (Doppelcouch),
-  Balkon mit Sitzgelegenheit. Dusche und separate Toilette. Sitzgelegenheit im
-  Grünen. Abstellplatz für Fahrräder vorhanden. WLAN inbegriffen. "
+description: Das 120 m² große Haus verteilt sich auf zwei Etagen und ist für 4-6
+  Personen bestens geeignet. Das Haus ist an das Haus des Eigentümers angebaut
+  und liegt auf der Bachseite mit eigenem Zugang. In den warmen Monaten ist die
+  schöne Sitzgelegenheit am Bach für Sie reserviert. Parkmöglichkeit direkt vor
+  dem Haus. Abstellplätze für Fahrräder bei Bedarf möglich.
 main:
-  heading: Schlafzimmer Erdgeschoss
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
-    betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
-    Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
-    Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
-    Aufwachen am Morgen.
+  heading: Erdgeschoß - Vorraum und Schlafzimmer 2
+  description: Eine freundlicher Vorraum mit Garderobe empfängt Sie, wenn sie das
+    Haus Grubmühle betreten. Im Erdgeschoß befindet sich ebenso ein kleines
+    gemütliches Schlafzimmer mit französischem Bett (140cm x 200).
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/Stiege.JPG
@@ -28,13 +24,9 @@ main:
     alt: Coffee beans
     image: /img/ZimmerU2.JPG
 main2:
-  heading: Schlafzimmer Obergeschoss
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
-    betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
-    Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
-    Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
-    Aufwachen am Morgen.
+  heading: Obergeschoss - Schlafzimmer 1
+  description: Das zweite Schlafzimmer mit Doppelbett befindet sich im ersten
+    Stock. Eine gemütliche Sitzecke lädt zum Verweilen ein.
   image1:
     alt: Schlafzimmer - großes Doppelbett
     image: /img/Schl1.2.JPG
@@ -46,12 +38,8 @@ main2:
     image: /img/Schl1.JPG
 main3:
   heading: Wohnzimmer
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
-    betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
-    Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
-    Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
-    Aufwachen am Morgen.
+  description: Das liebevoll eingerichtete Wohnzimmer mit Balkon und Sat TV bietet
+    bei Bedarf Schlafmöglichkeit (Jokabett) für weitere zwei Personen.
   image1:
     alt: Wohnzimmer
     image: /img/wz1.JPG
@@ -62,13 +50,10 @@ main3:
     alt: Balkon
     image: /img/balkon.JPG
 main4:
-  heading: Küche
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
-    betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
-    Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
-    Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
-    Aufwachen am Morgen.
+  heading: Wohnküche
+  description: Die voll ausgestattete Wohnküche mit Geschirrspüler, Mixer, Toaster
+    sowie freier Mitbenutzung des Gemüse- und Kräutergartens macht Lust auf
+    mehr.
   image1:
     alt: Küchenfront
     image: /img/kueche2.jpg
@@ -80,12 +65,8 @@ main4:
     image: /img/kueche3.jpg
 main5:
   heading: Bad und WC
-  description:
-    Eine freundlicher Vorraum erwartet Sie, wenn sie das Haus Grubmühle
-    betreten. Ein Schlafzimmer ist im Erdgeschoss auf der rechten Seite bei dem
-    Stiegenaufgang. Es bietet ein französisches Doppelbett (140cm x 200cm). Das
-    Fenster ist Richtung Bach ausgerichtet und verspricht ein Plätschern zum
-    Aufwachen am Morgen.
+  description: Duschbad und separate Toilette. Das Duschbad ist mit einer
+    Waschmaschine ausgestattet.
   image1:
     alt: WC
     image: /img/wc_hoch.jpg
