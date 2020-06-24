@@ -13,7 +13,7 @@ $black: #2b2523
 .navbar 
   position: fixed !important
   width: 100%
-  box-shadow: 0 1px 2px #9E9E9E;
+  box-shadow: 0 1px 2px $primary;
 .navbar .navbar-menu
   box-shadow:none !important
 .content .taglist
@@ -76,6 +76,12 @@ $black: #2b2523
 
 .navbar-item .icon
   color: $primary
+.navbar-item-active
+  color: white !important
+  background: $primary
+#navMenu a.navbar-item-active:hover
+  color: lightgrey !important
+  background: $primary !important
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
   width: 1.5rem

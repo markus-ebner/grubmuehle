@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import { HTMLContent } from "../components/Content";
 import Pricing from "../components/Pricing";
 import { MainHeading } from "../components/MainHeading";
 
