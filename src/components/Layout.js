@@ -58,7 +58,18 @@ const TemplateWrapper = ({ children }) => {
         />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/og-image.png`}
+          content={"https://ferienhaus-grubmuehle.at/img/og-image.jpg"}
+        />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta
+          property="twitter:url"
+          content="https://ferienhaus-grubmühle.at/"
+        />
+        <meta property="twitter:title" content={title} />
+        <meta property="twitter:description" content={description} />
+        <meta
+          property="twitter:image"
+          content="https://ferienhaus-grubmuehle.at/img/og-image.jpg"
         />
       </Helmet>
       <Navbar />
