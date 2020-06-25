@@ -1,10 +1,20 @@
 module.exports = {
   siteMetadata: {
     title: "Haus Grubmühle - Genuss am Land",
+    siteUrl: "https://haus-grubmuehle.netlify.app/",
     description:
       "Sie verbringen Ihren Urlaub gerne auf dem Land und möchten in einem gemütlichen Ferienhaus zwischen dem Rauschen des Baches und dem Gezwitscher der Vögel einen Familienurlaub oder einen Aktivurlaub in Kärnten verbringen? Dann sind Sie beim Ferienhaus Grubmühle genau richtig. Hier kann man in der Umgebung von Feldkirchen die Seele baumeln lassen, den Alltagsstess abwerfen und neue Kraft tanken. Und die Kinder nach Herzenslust spielen. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen.",
   },
   plugins: [
+    { resolve: "gatsby-plugin-sitemap", options: { createLinkInHead: true } },
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: "https://ferienhaus-grubmühle.at",
+        sitemap: "https://ferienhaus-grubmühle.at/sitemap.xml",
+        policy: [{ userAgent: "*", allow: "/" }],
+      },
+    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
     {
