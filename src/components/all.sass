@@ -76,6 +76,8 @@ $black: #2b2523
 
 .navbar-item .icon
   color: $primary
+a.navbar-item
+  padding: 0.5rem 1rem;
 .navbar-item-active
   color: lightgrey !important
   background: $primary
@@ -141,10 +143,14 @@ $menu-label-color: $white-ter
 
 // responsiveness
 +tablet-only
+  a.navbar-item
+    padding: 1rem 1rem;
   .blog-list-item .featured-thumbnail
     flex-basis: 50%;
 
 +mobile
+  a.navbar-item
+    padding: 1rem 1rem;
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
