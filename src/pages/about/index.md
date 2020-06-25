@@ -4,27 +4,28 @@ templateKey: about-page
 title: Über uns
 image: /img/familienfoto2.jpg
 ---
+
 Unser Hof **vulgo Grubmühle** auf 550 m Seehöhe befindet sich in der [Gemeinde St. Urban](https://www.sturban.at/) am Urbansee, dem wärmsten Bergsee Kärntens und wird in der vierten Generation von uns, Claudia und Max Sonvilla-Konar, im Nebenerwerb - heute vielmehr als Hobby - bewirtschaftet. Der Vulgarname lässt auf die bis in die 50er Jahre betriebene Mühle am Roggbach rückschließen. Anstelle der Alten Mühle wurde das Ferienhaus errichtet.
 
 ![Haus Grubmühle von Flussseite](/img/fluss_andere_seite_garten_haus.JPG "Haus Grubmühle von Flussseite")
 
-Claudia und Max führen im Nebenerwerb einen kleinen Bauernhof: Vier Mutterkühe mit Jungtieren und Kleintiere wie Hasen, Katzen und Hühner werden am Hof gehalten und versorgt. **Eier, Kräuter oder Gemüse** aus dem Garten können gerne **zur Selbstversorgung mitverwendet** werden.  
+Claudia und Max führen im Nebenerwerb einen kleinen Bauernhof: Vier Mutterkühe mit Jungtieren und Kleintiere wie Hasen, Katzen und Hühner werden am Hof gehalten und versorgt. **Eier, Kräuter oder Gemüse** aus dem Garten können gerne **zur Selbstversorgung mitverwendet** werden.
 
 Es ist daher ein ideales **Familienurlaubsplatzerl** für Naturliebhaber und Ausgangspunkt für Ausflüge zu den nahegelegenen Seen und Bergen. Auch für Biker und Radfahrer zentraler Ausgangsort in Mittelkärnten**.** [Wörthersee Card](https://www.woerthersee.com/de/woerthersee-plus-card/) inklusive.
 
-Die Gemeinde St. Urban ist eine sehr reizvolle und beliebte Urlaubs- und Erholungsdestination in Mittelkärnten. Burgen, Berge, Seen, die Hauptstadt Klagenfurt oder das Stift Ossiach/Carinthischer Sommer sind im Umkreis von 20 km erreichbar. 
+Die Gemeinde St. Urban ist eine sehr reizvolle und beliebte Urlaubs- und Erholungsdestination in Mittelkärnten. Burgen, Berge, Seen, die Hauptstadt Klagenfurt oder das Stift Ossiach/Carinthischer Sommer sind im Umkreis von 20 km erreichbar.
 
 Genießen Sie bei uns abwechslungsreiche**, echte Kärntner Sommerfrische**!
 
- Es ist idealer Ausgangspunkt für sportliche Abwechslung bei Wander- und Radtouren in der ungetrübten Natur des Mittelkärntner Seengebietes aber auch für Kulturliebhaber. Die reizende Bezirksstadt Feldkirchen ist 7 km entfernt und bietet alle Einkaufsmöglichkeiten sowie Freizeit- und Kulturangebote.
+Es ist idealer Ausgangspunkt für sportliche Abwechslung bei Wander- und Radtouren in der ungetrübten Natur des Mittelkärntner Seengebietes aber auch für Kulturliebhaber. Die reizende Bezirksstadt Feldkirchen ist 7 km entfernt und bietet alle Einkaufsmöglichkeiten sowie Freizeit- und Kulturangebote.
 
 ### Der Hof vulgo Grubmühle
 
-Das Ferienhaus in ruhiger Lage wurde ursprünglich als Wohnung für die Eltern erbaut. Claudia und Max, beide berufstätig haben drei Erwachsene Kinder und leben mit ihrem jüngsten Sohn Felix am kleinen Hof. Die Nachbarschaft ist oftmals in die Arbeit am Hof eingebunden, das familiäre Dorfleben ist sehr kinderfreundlich. 
+Das Ferienhaus in ruhiger Lage wurde ursprünglich als Wohnung für die Eltern erbaut. Claudia und Max, beide berufstätig haben drei Erwachsene Kinder und leben mit ihrem jüngsten Sohn Felix am kleinen Hof. Die Nachbarschaft ist oftmals in die Arbeit am Hof eingebunden, das familiäre Dorfleben ist sehr kinderfreundlich.
 
 ![Kids mit Katzen](/img/Katzen4.JPG "Kids mit Katzen")
 
-Der 11 ha große Betrieb ist einer von ganz wenigen bäuerlichen Betrieben, die im Nebenerwerb geführt werden. Die Flächen werden daher extensiv natürlich bewirtschaftet.  Drei bis vier Mutterkühe beweiden umliegende Wiesen, Kleintiere am Hof dienen vor allem zur Selbstversorgung mit Fleisch. 
+Der 11 ha große Betrieb ist einer von ganz wenigen bäuerlichen Betrieben, die im Nebenerwerb geführt werden. Die Flächen werden daher extensiv natürlich bewirtschaftet. Drei bis vier Mutterkühe beweiden umliegende Wiesen, Kleintiere am Hof dienen vor allem zur Selbstversorgung mit Fleisch.
 
 ![Kühe](/img/kalb_kuh.jpg "Kühe")
 
@@ -51,7 +52,7 @@ Die Vermieter beraten Sie gerne mit Freizeit-, Ausflugs- und Kulturtipps, auch a
 **Sommer in St. Urban:**
 
 Nicht nur der Urbansee (3 Km entfernt) mit seiner ausgezeichneten Wasserqualität, bietet Ihnen im Sommer und Herbst traumhafte Stunden - auf fast 100 Kilometern markierten Wanderwegen erleben Sie die Natur und Kultur in ihren Ursprung. Sie haben dabei die Auswahl von sechs verschiedenen Wanderrouten von einer Länge zwischen 8 und 28 Kilometern. Besuchen sollten Sie in St. Urban auf jeden Fall den Mithrasfelsen (Römerfunde) oberhalb des Urbansees. Hier finden Sie die Darstellung des Sonnengottes im Strahlenkranz. Der Grundgedanke der Mithrasreligion war der Kampf des Lichtes gegen die Finsternis. Beim "Mithrasfelsen" gibt es Sitzgelegenheiten, hier können Sie einen Augenblick innehalten und sich von der Kraft des unbesiegbaren Gottes Mithras berauschen lassen.\
-In der Nähe befindet sich weiters der Abenteuer Wasser Weg, die Burg Liebenfels oder der neue Klettergarten mit Niederseilgarten und Schwingschaukel. 
+In der Nähe befindet sich weiters der Abenteuer Wasser Weg, die Burg Liebenfels oder der neue Klettergarten mit Niederseilgarten und Schwingschaukel.
 
 **Winter in St. Urban/Simonhöhe:**
 
