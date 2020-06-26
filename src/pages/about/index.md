@@ -33,7 +33,7 @@ Tochter Lucia betreibt seit 2020 als Jungimkerin eine Minihonigfarm mit zwei Bie
 
 Wir haben sogar unseren eigenen Lamborghini in der Garage.
 
-![Lamborghini Traktor](/img/Katzen2.JPG "Lamborghini Traktor")
+![Lamborghini Traktor](/img/lambo.jpg "Lamborghini Traktor")
 
 ### Freizeitmöglichkeiten in der Region
 
