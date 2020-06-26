@@ -11,6 +11,17 @@ const Footer = class extends React.Component {
           alt="Haus Grubmühle"
           style={{ width: "14em", height: "10em" }}
         />
+        <div
+          style={{ display: "flex", alignItems: "center", margin: "0 20px" }}
+        >
+          <p>
+            Grubmühlenweg 8<br />
+            9554 St. Urban
+          </p>
+          <a href="mailto:claudia.sonvilla@aon.at?subject=Urlaub im Haus Grubmühle">
+            claudia.sonvilla@aon.at
+          </a>
+        </div>
         <ul className="menu-list">
           <li>
             <Link to="/" className="navbar-item">
@@ -57,6 +68,11 @@ const Footer = class extends React.Component {
               Admin
             </a>
           </li>
+          <img
+            src="/img/urlaub_am_bhof.png"
+            alt="Urlaub am Bauernhof"
+            style={{ width: "133px", height: "45px" }}
+          />
         </ul>
       </footer>
     );
