@@ -12,7 +12,13 @@ const Footer = class extends React.Component {
           style={{ width: "14em", height: "10em" }}
         />
         <div
-          style={{ display: "flex", alignItems: "center", margin: "0 20px" }}
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            flexWrap: "wrap",
+            flexDirection: "column",
+            margin: "0 20px",
+          }}
         >
           <p>
             Grubmühlenweg 8<br />
