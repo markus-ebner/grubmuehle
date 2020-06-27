@@ -11,11 +11,11 @@ mainpitch:
     gemütlichen Ferienhaus zwischen dem Rauschen des Baches und dem Gezwitscher
     der Vögel einen Familienurlaub oder einen Aktivurlaub verbringen? Dann sind
     Sie bei uns richtig. Hier kann man die Seele baumeln lassen, den
-    Alltagsstess abwerfen und neue Kraft tanken. Und die Kinder nach Herzenslust
+    Alltagsstress abwerfen und neue Kraft tanken. Und die Kinder nach Herzenslust
     spielen. 
 
 
-    Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen. 
+    Das Haus war früher eine Mühle und wurde nach und nach liebevoll umgebaut. Ein ideales Familienurlaubsplatzerl bzw. Ausgangspunkt für Ausflüge zu den nahe gelegenen Seen und Bergen.
 description: Unser Kleinbauernhof Grubmühle bietet eine ruhige Bachlage umgeben
   von Wiesen und Wäldern. Direkt neben dem Haus plätschert der Roggbach vorbei.
   Familien, Naturliebhaber und Aktivurlauber finden Erholung und
@@ -23,12 +23,14 @@ description: Unser Kleinbauernhof Grubmühle bietet eine ruhige Bachlage umgeben
 intro:
   blurbs:
     - image: /img/fluss_andere_seite_haus.JPG
-      text: "Unser Ferienhaus liegt ruhig, aber nicht einsam. Die Rogg - ein kleiner
+      text:
+        "Unser Ferienhaus liegt ruhig, aber nicht einsam. Die Rogg - ein kleiner
         sanft fließender Bach - ladet zum Verweilen und für die Kinder auch zum
         Spielen ein.  Wiesen und Wälder begrenzen den Bauernhof und die
         Streusiedlung. "
     - image: /img/außen_hell.JPG
-      text: "Unser Ferienhaus bietet für Familien und Kleingruppen bis zu 6 Personen
+      text:
+        "Unser Ferienhaus bietet für Familien und Kleingruppen bis zu 6 Personen
         ausreichend Platz. Kinder sind sehr herzlich willkommen, auch der
         10-jährige Sohn Felix freut sich schon auf Spielkameraden.  "
     - image: /img/balkon_aussicht_garten.JPG
