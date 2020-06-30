@@ -4,7 +4,6 @@ templateKey: about-page
 title: Über uns
 image: /img/familienfoto2.jpg
 ---
-
 Unser Hof **vulgo Grubmühle** auf 550 m Seehöhe befindet sich in der [Gemeinde St. Urban](https://www.sturban.at/) am Urbansee, dem wärmsten Bergsee Kärntens und wird in der vierten Generation von uns, Claudia und Max Sonvilla-Konar, im Nebenerwerb - heute vielmehr als Hobby - bewirtschaftet. Der Vulgarname lässt auf die bis in die 50er Jahre betriebene Mühle am Roggbach rückschließen. Anstelle der Alten Mühle wurde das Ferienhaus errichtet.
 
 ![Haus Grubmühle von Flussseite](/img/fluss_andere_seite_garten_haus.JPG "Haus Grubmühle von Flussseite")
@@ -17,7 +16,7 @@ Die Gemeinde St. Urban ist eine sehr reizvolle und beliebte Urlaubs- und Erholun
 
 Genießen Sie bei uns abwechslungsreiche**, echte Kärntner Sommerfrische**!
 
-Es ist idealer Ausgangspunkt für sportliche Abwechslung bei Wander- und Radtouren in der ungetrübten Natur des Mittelkärntner Seengebietes aber auch für Kulturliebhaber. Die reizende Bezirksstadt Feldkirchen ist 7 km entfernt und bietet alle Einkaufsmöglichkeiten sowie Freizeit- und Kulturangebote.
+
 
 ### Der Hof vulgo Grubmühle
 
