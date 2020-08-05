@@ -11,7 +11,8 @@ pricing:
     Gäste zu bieten. Die Ortstaxe von €2,10 pro Person/Nacht ab 17 Jahren sowie
     die Endreinigungsgebühr von € 50,-- sind vor Ort zusätzlich zu entrichten.
     Eine Anzahlung von 30 % erfolgt bei der Buchung, der Restbetrag ist einen
-    Monat vor dem Urlaubsantritt fällig.
+    Monat vor dem Urlaubsantritt fällig. In der Vor und Nachsaison sind die
+    Preise günstiger. Fragen Sie um ein unverbindliches Angebot an!
   plans:
     - description: Für Pärchen oder Alleinreisende gilt ein verbessertes Angebot.
       items:
