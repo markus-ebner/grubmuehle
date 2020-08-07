@@ -31,9 +31,11 @@ intro:
       text: "Unser Ferienhaus bietet für Familien und Kleingruppen bis zu 6 Personen
         ausreichend Platz. Kinder sind sehr herzlich willkommen, auch der
         10-jährige Sohn Felix freut sich schon auf Spielkameraden.  "
-    - image: /img/balkon_aussicht_garten.JPG
-      text: "Bachgenuss am Balkon. Bachblick und ein angenehmes, leises Rauschen
-        bieten alle Zimmer des Ferienhauses. "
+    - image: /img/fahrrad_s1.jpg
+      text: "Herbstzeit ist Radlzeit. Die Berg- und Seenwelt im Radland Kärnten
+        begeistert Genussradler ebenso wie    E-Biker oder Mountainbiker. Das
+        Ferienhaus liegt beim Glanradweg, die Fahrräder können in der Garage
+        abgestellt werden. "
     - image: /img/lage4.png
       text: "Die zentrale Lage in Mittelkärnten ermöglicht Ausflüge in das
         Mittelkärntner Seengebiet, in die Nockberge oder in die Landeshauptstadt
