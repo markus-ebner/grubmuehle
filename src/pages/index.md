@@ -22,7 +22,7 @@ description: Unser Kleinbauernhof Grubmühle bietet eine ruhige Bachlage umgeben
   Ausflugsmöglichkeiten gleichermaßen. Die Kärntner Seen und Berge rufen!
 intro:
   blurbs:
-    - image: /img/außen_hell.JPG
+    - image: /img/Katzen4.JPG
       text: >-
         Unser Ferienhaus liegt ruhig, aber nicht einsam. Die Rogg - ein kleiner
         sanft fließender Bach - ladet zum Verweilen und für die Kinder auch zum
