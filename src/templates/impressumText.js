@@ -19,8 +19,8 @@ export const ImpressumText = () => {
         Telefon: +43 650/4726353
         <br />
         E-Mail:{" "}
-        <a href="mailto:claudia.sonvilla@aon.at?subject=Impressum Haus Grubmühle">
-          claudia.sonvilla@aon.at
+        <a href="mailto:sonvilla.claudia@aon.at?subject=Impressum Haus Grubmühle">
+          sonvilla.claudia@aon.at
         </a>
         <br />
       </p>
