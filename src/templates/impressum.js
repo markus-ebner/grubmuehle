@@ -17,7 +17,9 @@ export const ImpressumPageTemplate = () => {
                 <ImpressumText />
                 <p>
                   Made by{" "}
-                  <a href="https://twitter.com/EbnerMarkus49">Ebner Markus</a>
+                  <a href="https://twitter.com/EbnerMarkus49">Ebner Markus</a>{" "}(<a
+                    href="mailto:ebner.markus94@gmail.com?subject=Website Ferienhaus Grubmühle"
+                    >ebner.markus94@gmail.com</a>)
                 </p>
               </div>
             </div>
