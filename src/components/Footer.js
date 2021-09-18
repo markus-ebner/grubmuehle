@@ -24,8 +24,8 @@ const Footer = class extends React.Component {
             Grubmühlenweg 8<br />
             9554 St. Urban
           </p>
-          <a href="mailto:claudia.sonvilla@aon.at?subject=Urlaub im Haus Grubmühle">
-            claudia.sonvilla@aon.at
+          <a href="mailto:sonvilla.claudia@aon.at?subject=Urlaub im Haus Grubmühle">
+            sonvilla.claudia@aon.at
           </a>
         </div>
         <ul className="menu-list">

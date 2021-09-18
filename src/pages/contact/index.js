@@ -81,8 +81,8 @@ export default class Index extends React.Component {
                       Tel: +43 650/4726353
                       <br />
                       E-Mail:{" "}
-                      <a href="mailto:claudia.sonvilla@aon.at?subject=Urlaub im Haus Grubmühle">
-                        claudia.sonvilla@aon.at
+                      <a href="mailto:sonvilla.claudia@aon.at?subject=Urlaub im Haus Grubmühle">
+                        sonvilla.claudia@aon.at
                       </a>
                     </p>
                   </div>
