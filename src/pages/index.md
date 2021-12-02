@@ -28,7 +28,7 @@ intro:
         sanft fließender Bach - ladet zum Verweilen und für die Kinder auch zum
         Spielen ein.  Wiesen und Wälder begrenzen den Bauernhof und die
         Streusiedlung. 
-    - image: /img/außen_hell.JPG
+    - image: /img/rodeln.jpg
       text: "Unser Ferienhaus bietet für Familien und Kleingruppen bis zu 6 Personen
         ausreichend Platz. Kinder sind sehr herzlich willkommen, auch der
         10-jährige Sohn Felix freut sich schon auf Spielkameraden.  "
