@@ -30,13 +30,12 @@ intro:
         Streusiedlung. 
     - image: /img/rodeln.jpg
       text: "Unser Ferienhaus bietet für Familien und Kleingruppen bis zu 6 Personen
-        ausreichend Platz. Kinder sind sehr herzlich willkommen, auch der
-        10-jährige Sohn Felix freut sich schon auf Spielkameraden.  "
-    - image: /img/fahrrad_s1.jpg
-      text: "Herbstzeit ist Radlzeit. Die Berg- und Seenwelt im Radland Kärnten
-        begeistert Genussradler ebenso wie    E-Biker oder Mountainbiker. Das
-        Ferienhaus liegt beim Glanradweg, die Fahrräder können in der Garage
-        abgestellt werden. "
+        ausreichend Platz. Kinder sind sehr herzlich willkommen! "
+    - image: /img/schneeschuhwandern.jpg
+      text: Wintervergnügen bei Freunden. Die Berg- und Seenwelt in Kärnten begeistert
+        Genussschifahrer ebenso wie Eisläufer oder Schneeschuhwanderer. Sport-
+        und Freizeitinfos unter  https://www.kaernten-mitte.at/erleben/#aktiv
+        oder https://www.nockberge.at/de/aktivitaeten/aktiv-winter.html
     - image: /img/lage4.png
       text: "Die zentrale Lage in Mittelkärnten ermöglicht Ausflüge in das
         Mittelkärntner Seengebiet, in die Nockberge oder in die Landeshauptstadt
