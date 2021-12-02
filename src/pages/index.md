@@ -37,7 +37,8 @@ intro:
         und Freizeitinfos unter  https://www.kaernten-mitte.at/erleben/#aktiv
         oder https://www.nockberge.at/de/aktivitaeten/aktiv-winter.html
     - image: /img/lage4.png
-      text: "Die zentrale Lage in Mittelkärnten ermöglicht Ausflüge in das
-        Mittelkärntner Seengebiet, in die Nockberge oder in die Landeshauptstadt
-        Klagenfurt, alles im Umkreis von 20 km. "
+      text: "In 7km Entfernung ladet das Familienschigebiet Simonhöhe mit zahlreichen
+        Attraktionen zum Wintervergnügen ein. In ca. 30 Minuten Autofahrt sind
+        viele größere Schigebiete wie die Gerlitze, Bad Kleinkirchheim, die
+        Turracherhöhe oder das Schigebiet Hochrindl erreichbar. "
 ---
