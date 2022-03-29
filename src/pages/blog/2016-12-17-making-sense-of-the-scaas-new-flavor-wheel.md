@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Neue Babykatzen am Bauernhof
-date: 2022-03-29T18:12:25.182Z
+date: 2021-03-29T18:12:00.000Z
 description: "Unsere Stallkatze Luna hat heuer im Frühling 4 kleine Kätzchen zur
   Welt gebracht. 3 Kater und 1 Katze sind nun bei uns Zuhause. "
 featuredpost: true
