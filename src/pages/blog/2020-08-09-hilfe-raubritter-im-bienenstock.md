@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Hilfe, Raubritter im Bienenstock!
-date: 2020-08-09T07:07:22.080Z
+date: 2022-08-09T07:07:00.000Z
 description: " "
 featuredpost: true
 featuredimage: /img/bienen_2.jpg
