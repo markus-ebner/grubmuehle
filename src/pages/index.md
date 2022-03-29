@@ -28,16 +28,18 @@ intro:
         sanft fließender Bach - ladet zum Verweilen und für die Kinder auch zum
         Spielen ein.  Wiesen und Wälder begrenzen den Bauernhof und die
         Streusiedlung. 
-    - image: /img/Katzen2.JPG
+    - image: /img/Kuh2.JPG
       text: "Unser Ferienhaus bietet für Familien und Kleingruppen bis zu 6 Personen
         ausreichend Platz. Kinder sind sehr herzlich willkommen! "
-    - image: /img/schneeschuhwandern.jpg
-      text: Wintervergnügen bei Freunden. Die Berg- und Seenwelt in Kärnten begeistert
-        Genussschifahrer ebenso wie Eisläufer oder Schneeschuhwanderer. Sport-
-        und Freizeitinfos unter  https://www.kaernten-mitte.at/erleben/#aktiv
-        oder https://www.nockberge.at/de/aktivitaeten/aktiv-winter.html
     - image: /img/lage4.png
       text: " Seien es Spaziergänge, Radfahren, Seenerkundungen... - das freudige
         Frühlings- und Sommererwachen findet man rund ums Haus und in der nahen
         Umgebung."
+    - image: /img/20200628_171346.jpg
+      text: >-
+        Familienurlaubsplatzerl - Glück ist die Summe schöner Momente und
+        Erinnerungen.
+
+
+        Inmitten der Kärntner Seen- und Bergwelt - Wörthersee Card inklusive.
 ---
