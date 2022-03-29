@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Wintertraumland
-date: 2020-12-29T17:41:15.318Z
+date: 2022-12-29T17:41:00.000Z
 description: Wenn der Schnee vom Himmel fällt, dann werden auch die Erwachsenen
   wieder zu Kindern.
 featuredpost: true
