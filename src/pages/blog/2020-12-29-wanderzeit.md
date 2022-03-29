@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Wanderzeit
-date: 2020-10-30T17:31:02.964Z
+date: 2022-10-30T17:31:00.000Z
 description: Wanderlust in der Umgebung
 featuredpost: true
 featuredimage: /img/simonhoehe.jpg
