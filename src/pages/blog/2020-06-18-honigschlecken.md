@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Honigschlecken
-date: 2020-06-18T18:50:36.217Z
+date: 2022-06-18T18:50:00.000Z
 description: " "
 featuredpost: true
 featuredimage: /img/imkerin_honigschleudern.jpg
