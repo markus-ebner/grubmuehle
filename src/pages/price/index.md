@@ -18,16 +18,16 @@ pricing:
       items:
         - Großzügige Raumaufteilung
       plan: 1-2 Personen
-      price: "75"
+      price: "80"
     - description: für eine Familie mit bis zu zwei Kindern bis 16 Jahre haben wir
         einen attraktiven Preis.
       items:
         - für jedes weitere Kind bis 16 Jahre 5€/Tag
       plan: 3-4 Personen - Familienpreis
-      price: "80"
+      price: "85"
     - description: für 5. und 6. Person wird jeweils 10€/Tag aufgerechnet.
       items:
         - Großes Schlafsofa für die fünfte und sechste Person
       plan: 4-6 Personen ab 16 Jahre
-      price: "90"
+      price: "95"
 ---
