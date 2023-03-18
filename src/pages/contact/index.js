@@ -96,7 +96,7 @@ export default class Index extends React.Component {
                       aria-hidden="false"
                     ></iframe>
                   </div>
-                  <!--
+                  {/*
                   <div className="section">
                     <h1 className="title is-size-3 has-text-weight-bold is-bold-light">
                       Kontaktformular
@@ -109,7 +109,6 @@ export default class Index extends React.Component {
                       data-netlify-honeypot="bot-field"
                       onSubmit={this.handleSubmit}
                     >
-                      {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                       <input
                         type="hidden"
                         name="form-name"
@@ -180,7 +179,7 @@ export default class Index extends React.Component {
                       </div>
                     </form>
                   </div>
-                -->
+                */}
                 </div>
               </div>
             </div>
