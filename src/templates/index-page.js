@@ -5,7 +5,7 @@ import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
-
+alert("Leider wird das Haus Grubmühle in 2023 nicht vermietet. In 2024 startet die Vermietung wieder.")
 export const IndexPageTemplate = ({
   image,
   title,
