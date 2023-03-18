@@ -70,6 +70,9 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
+                    <h1 className="title" style="color: red">
+                    Leider wird das Haus Grubmühle in 2023 nicht vermietet. In 2024 startet die Vermietung wieder.
+                    </h1>
                     <h2 className="title has-text-weight-semibold is-size-2">
                       {mainpitch.title}
                     </h2>
@@ -127,9 +130,8 @@ IndexPageTemplate.propTypes = {
 };
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark;
-
-  alert("Leider wird das Haus Grubmühle in 2023 nicht vermietet. In 2024 startet die Vermietung wieder.")
+  const { frontmatter } = data.markdownRemark; 
+  
   return (
     <Layout>
       <IndexPageTemplate
