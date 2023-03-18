@@ -96,6 +96,7 @@ export default class Index extends React.Component {
                       aria-hidden="false"
                     ></iframe>
                   </div>
+                  <!--
                   <div className="section">
                     <h1 className="title is-size-3 has-text-weight-bold is-bold-light">
                       Kontaktformular
@@ -179,6 +180,7 @@ export default class Index extends React.Component {
                       </div>
                     </form>
                   </div>
+                -->
                 </div>
               </div>
             </div>
